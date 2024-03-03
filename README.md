@@ -18,11 +18,12 @@ The physical collection is situated in the cyro-collection of Lee Kong Chian Nat
 
 ## Samples
 
-UNDER CONSTRUCTION
+As described in the "Master-sheet_HSCGB.xlsx". The excel include two tabs for DNA extract and tissue samples respectively.
+
 
 ## How to use the biorepository
 
-UNDER CONSTRUCTION
+Email me (tangbenjamin@hotmail.com) for further instruction.
 
 
 ## How to cite
