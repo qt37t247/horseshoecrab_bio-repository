@@ -23,7 +23,13 @@ As described in the "Master-sheet_HSCGB.xlsx". The excel include two tabs for DN
 
 ## How to use the biorepository
 
-Email me (tangbenjamin@hotmail.com) for further instruction.
+Email me (tangbenjamin@hotmail.com)
+
+or
+
+Prof. Akbar John (akbarjohn50@gmail.com) 
+
+for further instruction.
 
 
 ## How to cite
